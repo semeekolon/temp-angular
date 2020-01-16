@@ -1,0 +1,219 @@
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\CoursesAPI.dll.config
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\CoursesAPI.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\CoursesAPI.pdb
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\csc.exe
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\csc.exe.config
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\csc.rsp
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\csi.exe
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\csi.exe.config
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\csi.rsp
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.AppContext.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Console.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.IO.Compression.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.IO.FileSystem.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.IO.Pipes.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.AccessControl.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Claims.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Threading.Thread.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.ValueTuple.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Xml.XPath.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\vbc.exe
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\vbc.exe.config
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\vbc.rsp
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\VBCSCompiler.exe
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\EntityFramework.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\EntityFramework.SqlServer.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\Newtonsoft.Json.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\System.Net.Http.Formatting.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\System.Web.Http.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\System.Web.Http.WebHost.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\EntityFramework.xml
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\EntityFramework.SqlServer.xml
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\Newtonsoft.Json.xml
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\System.Net.Http.Formatting.xml
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\System.Web.Http.xml
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\System.Web.Http.WebHost.xml
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\obj\Debug\CoursesAPI.csprojResolveAssemblyReference.cache
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\obj\Debug\CoursesAPI.csproj.CoreCompileInputs.cache
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\obj\Debug\CoursesAPI.csproj.CopyComplete
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\obj\Debug\CoursesAPI.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\obj\Debug\CoursesAPI.pdb
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\System.Web.Cors.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\System.Web.Http.Cors.dll
+c:\users\eldho\source\repos\CoursesAPI\CoursesAPI\bin\System.Web.Http.Cors.xml
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\CoursesAPI.dll.config
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\CoursesAPI.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\CoursesAPI.pdb
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\csc.exe
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\csc.exe.config
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\csc.rsp
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\csi.exe
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\csi.exe.config
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\csi.rsp
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.AppContext.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Console.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Diagnostics.Process.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.IO.Compression.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.IO.Pipes.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.AccessControl.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Claims.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Threading.Thread.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.ValueTuple.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Xml.XPath.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\vbc.exe
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\vbc.exe.config
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\vbc.rsp
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\VBCSCompiler.exe
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\EntityFramework.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\EntityFramework.SqlServer.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\Newtonsoft.Json.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\System.Net.Http.Formatting.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\System.Web.Cors.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\System.Web.Http.Cors.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\System.Web.Http.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\System.Web.Http.WebHost.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\EntityFramework.xml
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\EntityFramework.SqlServer.xml
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\System.Net.Http.Formatting.xml
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\System.Web.Http.xml
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\System.Web.Http.Cors.xml
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\Newtonsoft.Json.xml
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\bin\System.Web.Http.WebHost.xml
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\obj\Debug\CoursesAPI.csprojResolveAssemblyReference.cache
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\obj\Debug\CoursesAPI.csproj.CoreCompileInputs.cache
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\obj\Debug\CoursesAPI.csproj.CopyComplete
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\obj\Debug\CoursesAPI.dll
+E:\Eldho\Angular\SimpleCRUD\CoursesAPI\CoursesAPI\obj\Debug\CoursesAPI.pdb
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\CoursesAPI.dll.config
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\CoursesAPI.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\CoursesAPI.pdb
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\csc.exe
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\csc.exe.config
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\csc.rsp
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\csi.exe
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\csi.exe.config
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\csi.rsp
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.AppContext.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Console.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Diagnostics.Process.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.IO.Compression.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.IO.Pipes.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.AccessControl.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Claims.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Threading.Thread.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.ValueTuple.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Xml.XPath.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\vbc.exe
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\vbc.exe.config
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\vbc.rsp
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\VBCSCompiler.exe
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\EntityFramework.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\EntityFramework.SqlServer.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\Newtonsoft.Json.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\System.Net.Http.Formatting.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\System.Web.Cors.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\System.Web.Http.Cors.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\System.Web.Http.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\System.Web.Http.WebHost.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\EntityFramework.xml
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\EntityFramework.SqlServer.xml
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\System.Net.Http.Formatting.xml
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\System.Web.Http.xml
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\System.Web.Http.Cors.xml
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\Newtonsoft.Json.xml
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\bin\System.Web.Http.WebHost.xml
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\obj\Debug\CoursesAPI.csprojResolveAssemblyReference.cache
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\obj\Debug\CoursesAPI.csproj.CoreCompileInputs.cache
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\obj\Debug\CoursesAPI.csproj.CopyComplete
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\obj\Debug\CoursesAPI.dll
+E:\Eldho\Angular\SimpleCRUD with API\CoursesAPI\CoursesAPI\obj\Debug\CoursesAPI.pdb
